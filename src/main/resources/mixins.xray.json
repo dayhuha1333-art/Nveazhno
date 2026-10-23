@@ -1,0 +1,10 @@
+{
+  "package": "com.example.xray.mixin",
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "mixins": [
+    "MixinBlock"
+  ]
+}
